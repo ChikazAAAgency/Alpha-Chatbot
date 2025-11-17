@@ -1,0 +1,9 @@
+huggingface_hub
+transformers
+torch
+sentence-transformers
+qdrant-client
+pypdf
+langchain
+python-dotenv
+google-generativeai
